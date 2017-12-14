@@ -28,8 +28,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['192.168.101.129','127.0.0.1','localhost']
 
-#以上使用单引号似乎生效不了
-
 # Application definition
 
 INSTALLED_APPS = [
