@@ -25,8 +25,10 @@ SECRET_KEY = '=vi@d%1zi376vqe45nl4@be14q90@s1ff7@*#3a=i)8nel-^lx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
 
+ALLOWED_HOSTS = ['192.168.101.129','127.0.0.1','localhost']
+
+#以上使用单引号似乎生效不了
 
 # Application definition
 
